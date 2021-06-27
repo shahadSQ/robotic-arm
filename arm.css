@@ -1,0 +1,99 @@
+/* An external stylesheet */
+
+.header{
+  color:#cadef8;
+  font-size: 30px;
+  position: fixed; left: 650px; top:70px;
+  text-align: center;
+  text-shadow: 4px 4px 4px #02213d;
+  font-family: cursive;
+}
+
+body#image{
+  background-image:url("roboticArmBackground.png"), linear-gradient( #e9780f, #47bdf0);
+  background-position:right bottom,to bottom;
+  background-repeat: no-repeat, no-repeat;
+  background-size:400px 580px, 1300px 600px;
+}
+
+
+table{
+  margin-right:5px;
+  position: fixed; left:414px; top:220px;
+}
+
+.data{
+  color: rgb(1, 14, 19);
+  font-size: 18px;
+  font-weight: bold;
+}
+
+  .myslider1{
+    background: linear-gradient(to right,  #8acff0 0%, rgb(219, 88, 0) 100%, #fff 0%, #fff 0%);
+     border-radius: 10px; 
+      height: 10px;
+      width: 180px;
+     -webkit-appearance: none;
+}
+
+.myslider2{
+  background: linear-gradient(to right,  #8acff0 0%, rgb(219, 88, 0) 100%, #fff 0%, #fff 0%);
+   border-radius: 10px; 
+    height: 10px;
+    width: 180px;
+   -webkit-appearance: none;
+}
+
+.myslider3{
+  background: linear-gradient(to right,  #8acff0 0%, rgb(219, 88, 0) 100%, #fff 0%, #fff 0%);
+   border-radius: 10px; 
+    height: 10px;
+    width: 180px;
+   -webkit-appearance: none;
+}
+
+.myslider4{ 
+  background: linear-gradient(to right,  #8acff0 0%, rgb(219, 88, 0) 100%, #fff 0%, #fff 0%);
+ border-radius: 10px; 
+  height: 10px;
+  width: 180px;
+ -webkit-appearance: none;
+}
+
+.myslider5{
+  background: linear-gradient(to right,  #8acff0 0%, rgb(219, 88, 0) 100%, #fff 0%, #fff 0%);
+   border-radius: 10px; 
+    height: 10px;
+    width: 180px;
+   -webkit-appearance: none;
+}
+
+.myslider6{
+  background: linear-gradient(to right,  #8acff0 0%, rgb(219, 88, 0) 100%, #fff 0%, #fff 0%);
+ border-radius: 10px; 
+  height: 10px;
+  width: 180px;
+ -webkit-appearance: none;
+}
+
+.buttonn1 {
+  position: fixed; left:700px; top:445px;
+  border: 2px solid #000000;
+  padding: 12px 18px;
+  margin: 6px 2px;
+  border-radius: 5px;
+  text-align: center;
+  color:#000000;;
+  font-family: "Arial Black", Gadget, sans-serif;
+  }
+
+  .buttonn2 {
+    position: fixed; left:850px; top:445px;
+    border: 2px solid #000000;
+    padding: 12px 8px;
+    margin: 6px 2px;
+    border-radius: 5px;
+    text-align: center;
+    color:#000000;
+    font-family: "Arial Black", Gadget, sans-serif;
+    }
