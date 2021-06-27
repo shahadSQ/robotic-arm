@@ -28,3 +28,7 @@
 
 الصفحة التي تظهر بعد النقر على تشغيل (running):
 ![Screenshot (47)](https://user-images.githubusercontent.com/80406362/123531327-4e68c300-d70c-11eb-818f-5dbbcd92055f.png)
+
+الجدول في قاعدة البيانات بعد النقر على زر تشغيل(running):
+![Screenshot (49)](https://user-images.githubusercontent.com/80406362/123531382-aa334c00-d70c-11eb-99ae-331544b0bd5a.png)
+
